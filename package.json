@@ -1,6 +1,9 @@
 {
   "name": "weather-app",
   "version": "0.1.0",
+  "scripts": {
+     "start": "node app.js",  
+  }
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
